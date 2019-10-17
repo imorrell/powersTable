@@ -1,0 +1,11 @@
+C:\Users\Prophesy\Documents\C#2019\powersTable\powersTable\bin\Debug\netcoreapp3.0\powersTable.exe
+C:\Users\Prophesy\Documents\C#2019\powersTable\powersTable\bin\Debug\netcoreapp3.0\powersTable.deps.json
+C:\Users\Prophesy\Documents\C#2019\powersTable\powersTable\bin\Debug\netcoreapp3.0\powersTable.runtimeconfig.json
+C:\Users\Prophesy\Documents\C#2019\powersTable\powersTable\bin\Debug\netcoreapp3.0\powersTable.runtimeconfig.dev.json
+C:\Users\Prophesy\Documents\C#2019\powersTable\powersTable\bin\Debug\netcoreapp3.0\powersTable.dll
+C:\Users\Prophesy\Documents\C#2019\powersTable\powersTable\bin\Debug\netcoreapp3.0\powersTable.pdb
+C:\Users\Prophesy\Documents\C#2019\powersTable\powersTable\obj\Debug\netcoreapp3.0\powersTable.csprojAssemblyReference.cache
+C:\Users\Prophesy\Documents\C#2019\powersTable\powersTable\obj\Debug\netcoreapp3.0\powersTable.AssemblyInfoInputs.cache
+C:\Users\Prophesy\Documents\C#2019\powersTable\powersTable\obj\Debug\netcoreapp3.0\powersTable.AssemblyInfo.cs
+C:\Users\Prophesy\Documents\C#2019\powersTable\powersTable\obj\Debug\netcoreapp3.0\powersTable.dll
+C:\Users\Prophesy\Documents\C#2019\powersTable\powersTable\obj\Debug\netcoreapp3.0\powersTable.pdb

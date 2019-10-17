@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Prophesy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Prophesy\\.nuget\\packages"
+    ]
+  }
+}
